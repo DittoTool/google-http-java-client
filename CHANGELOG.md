@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.40.1](https://www.github.com/googleapis/google-http-java-client/compare/v1.40.0...v1.40.1) (2021-09-01)
+
+
+### Bug Fixes
+
+* add used packages to OSGI manifest again ([#1439](https://www.github.com/googleapis/google-http-java-client/issues/1439)) ([#1440](https://www.github.com/googleapis/google-http-java-client/issues/1440)) ([59fc8b0](https://www.github.com/googleapis/google-http-java-client/commit/59fc8b03e5518864c60ce4dd47664e8935da343b))
+
 ## [1.40.0](https://www.github.com/googleapis/google-http-java-client/compare/v1.39.2...v1.40.0) (2021-08-20)
 
 
